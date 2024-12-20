@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№6-КОРОТИЧ_МАКСИМ\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№6-КОРОТИЧ_МАКСИМ\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№6-КОРОТИЧ_МАКСИМ\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№6-КОРОТИЧ_МАКСИМ\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№6-КОРОТИЧ_МАКСИМ\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№6-КОРОТИЧ_МАКСИМ\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\PC\Documents\VS Works\2 KYRS\LW№6-КОРОТИЧ_МАКСИМ\Task1\Task1\obj\Debug\Task1.pdb
